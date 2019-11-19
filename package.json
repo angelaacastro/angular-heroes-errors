@@ -10,7 +10,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  
   "private": true,
   "dependencies": {
     "@angular/animations": "^8.2.0",
@@ -53,7 +52,7 @@
     "tar": "^4.4.8",
     "ts-node": "~4.1.0",
     "tslint": "^5.16.0",
-    "typescript": "^3.5.3",
+    "typescript": "3.5.3",
     "webpack": "^4.31.0"
   }
 }
